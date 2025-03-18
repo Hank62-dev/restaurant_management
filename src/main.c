@@ -4,6 +4,7 @@
  
  int main(){
  	printf("huy");
+ 	printf("dep trai");
  	return 0;
  }
  
